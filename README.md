@@ -18,3 +18,6 @@ title elements: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title
 heading elements: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
 followed this blog for css semantics best practices: https://robdodson.me/posts/css-semantics/
+
+![Screen Shot 2024-06-19 at 5 50 09 PM](https://github.com/lothylg/horiseon/assets/171598913/6ae7841d-d74c-423c-9b60-6c9068e39594)
+![Screen Shot 2024-06-19 at 5 51 49 PM](https://github.com/lothylg/horiseon/assets/171598913/b809843d-1764-4e9e-8c52-6ebb4fba72c9)
